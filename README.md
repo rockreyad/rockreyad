@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi there, I'm Rockreyad! 👋
+Computer Science Student, passionate about Software development (android native) and seeking for an entry level internship to enhance my skills.
+🎓 Still undergraduating at Internation University of Business, Agricultural and Technologoy.
+🤔 I’m looking for a position as Android developer / software engineer / UI/UX Designer.
+🧠 Problem Solving Skills.
+📲 Interested more in android development.
+💻 Strong Knowledge of java,JavaScript programming languages.
+📌 Lives in Dhaka, Bangladesh.
 
-<!--
-**rockreyad/rockreyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact with me:
+gmail linkedin
