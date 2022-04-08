@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockreyad&label=Profile%20views&color=0eb493&style=flat-square" alt="rockreyad" /> </p>
 
-- 🔭 I’m currently working on [Brokerage](https://github.com/rockreyad/Brokerage)
+- 🔭 I’m currently working on Some Mini Projects
 
-- 🌱 I’m currently learning **Flutter, node.js, System Analyst**
+- 🌱 I’m currently learning **JavaScript, Tailwindcss, node-js**
 
 - 💬 Ask me about **Java, C#, Logic Behind a software**
 
