@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Some Mini Projects
 
-- 🌱 I’m currently learning **JavaScript, Tailwindcss, node-js**
+- 🌱 I’m currently learning **ReactJs, Tailwindcss**
 
 - 💬 Ask me about **Java, C#, Logic Behind a software**
 
