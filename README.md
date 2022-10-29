@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockreyad&label=Profile%20views&color=0eb493&style=flat-square" alt="rockreyad" /> </p>
 
-- 🔭 I’m currently working on Some Mini Projects
+- 🔭 I’m currently working on e-mess backend Projects v.1
+  - Technology using : #nodejs #expressJs different libraries and so on
 
-- 🌱 I’m currently learning **ReactJs, Tailwindcss**
+- 🌱 I’m currently learning **TypeScript, chaching**
 
-- 💬 Ask me about **Java, C#, Logic Behind a software**
+- 💬 Ask me about **NodeJs, NextJS, ExpressJs, ReactJs**
 
 - 📫 How to reach me **rockreyad@gmail.com**
+
+###PROTFOLIO
+<a href="http://hasan.narc.dev" target="blank">hasan.narc.dev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
