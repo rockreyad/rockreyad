@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. MAHAMUD HASAN</h1>
-<h3 align="center">Computer Science Student, passionate about Software development (android native) and seeking for an entry level internship to enhance my skills.</h3>
+<h3 align="center">Computer Science Student, passionate about Software development (WEB) and seeking for an entry level internship to enhance my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockreyad&label=Profile%20views&color=0eb493&style=flat-square" alt="rockreyad" /> </p>
 
