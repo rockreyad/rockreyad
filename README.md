@@ -138,7 +138,7 @@
        <img alt="digitalService" src="https://img.shields.io/badge/-📝%20Digital%20Service%20Portal-000">
     </a>
     <!-- project 2 -->
-    <a href="https://github.com/rockreyad/akashlungi-ecommerce" target="_blank">
+    <a href="https://akashlungi.com" target="_blank">
        <img alt="akashLungi" src="https://img.shields.io/badge/-🛒%20Fashion%20E%E2%80%93commerce%20build%20Remix-000">
      </a>
     <!-- project 3 -->
