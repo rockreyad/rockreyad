@@ -138,8 +138,8 @@
        <img alt="akashLungi" src="https://img.shields.io/badge/-🛒%20Fashion%20E%E2%80%93commerce%20build%20Remix-000">
      </a>
     <!-- project 3 -->
-    <a href="https://github.com/rockreyad/e-mess-backend" target="_blank">
-       <img alt="E-Mess" src="https://img.shields.io/badge/-🏢%20E%E2%80%93Mess%20Management%20Back%E2%80%93End-000">
+    <a href="https://github.com/rockreyad/takenote" target="_blank">
+       <img alt="takenote" src="https://img.shields.io/badge/-🏢%20Next%20Generation%20Speech%20to%20Text%20AI-000">
      </a>
     </p>
   <br>
