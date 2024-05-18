@@ -45,8 +45,8 @@
                 src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
         </a>
           <!-- Twitter -->
-        <a href="https://www.twitter.com/rockreyad/" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white">
+        <a href="https://www.twitter.com/rockreyad/" target="_blank"><img alt="X"
+                src="https://img.shields.io/twitter/url?url=https://x/rockreyad?style=flat-square&logo=X&label=follow&logoColor=black&color=#D5D5D5">
         </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/rockreyad/" target="_blank"><img alt="Linkedin"
