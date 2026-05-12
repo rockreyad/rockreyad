@@ -68,7 +68,7 @@
       <br>
       <br>
   <p align="center"> PROTFOLIO</p>
-  <p align="center"> <a href="https://hasan.narc.dev" target="blank">hasan.narc.dev</a></p>
+  <p align="center"> <a href="https://mrhasan.dev" target="blank">mrhasan.dev</a></p>
     </p>
     <br>
 </samp>
