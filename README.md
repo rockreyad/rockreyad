@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Howdy root!, I am
-          <b><a target="_blank" href="https://hasan.narc.dev/">Mahamud Hasan</a></b>
+          <b><a target="_blank" href="https://mrhasan.dev/">Mahamud Hasan</a></b>
         </samp>
 </h3>
 <br>
